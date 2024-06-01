@@ -1,0 +1,22 @@
+name: my-enviroment
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - catboost=1.2
+  - matplotlib=3.8.0
+  - matplotlib-base=3.8.0
+  - matplotlib-inline=0.1.6
+  - nltk=3.8.1
+  - numpy=1.26.4
+  - numpy-base=1.26.4
+  - pandas=2.1.4
+  - pymorphy3=1.2.0
+  - pymorphy3-dicts-ru=2.4.417150.4580142
+  - pymorphy3-dicts-uk=2.4.1.1.1663094765
+  - python=3.11.7
+  - scikit-image=0.22.0
+  - scikit-learn=1.2.2
+  - scikit-optimize=0.10.1
+  - scipy=1.11.4
+  - seaborn=0.12.2
